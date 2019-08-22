@@ -4,7 +4,9 @@ This project determines first and last names for a given American Name
 Syntax for running the code in CLI:
 >python verify_name_pattern.py -n "ADAM KAISER"
 
-Output of the code would appear as mentioned below: -
+To run this code: Paste the zipped folder 'Dictionaries' in the path where the code is pasted and unzip the folder
+
+Output of the code would appear as mentioned below: - \n
 -----------------OUTPUT------------------------------
 Processed Name Output will always be in  {Last Name, First Name Suffix} format
 Original Name:  ADAM KAISER
