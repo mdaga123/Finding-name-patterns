@@ -1,5 +1,5 @@
 # Finding-name-patterns
-This project determines first and last names for a given American Name
+This project determines first and last names for a given American Name using dictionaries and fuzzy logic
 
 Syntax for running the code in CLI:
 >python verify_name_pattern.py -n "ADAM KAISER"
