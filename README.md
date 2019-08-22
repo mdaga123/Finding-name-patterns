@@ -11,8 +11,8 @@ Output of the code would appear as mentioned below: - \
 Processed Name Output will always be in  {Last Name, First Name Suffix} format\
 Original Name:  ADAM KAISER \
 Processed Name:  KAISER,ADAM \
-Action:  Suggested Format printed \
-
+Action:  Suggested Format printed 
+----------------------------------------------------- \
 The code will only work for the following name formats: -
 1) One string in text {Name}
 2) Two strings in text separated by comma or space {Name1, Name2} or {Name1 Name2}
